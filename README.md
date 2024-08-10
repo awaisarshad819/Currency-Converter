@@ -38,5 +38,6 @@ Thank you for checking out this project! If you have any questions or suggestion
 ## Contact
 
 - **Name:** Muhammad Awais Arshad
+- **GitHub:** [awaisarshad819](https://github.com/awaisarshad819)
 - **Email:** [awaisarshad819@gmail.com](mailto:awaisarshad819@gmail.com)
 - **LinkedIn:** [Muhammad Awais Arshad](https://www.linkedin.com/in/muhammadawais-arshad/)
